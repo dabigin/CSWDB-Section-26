@@ -1,0 +1,19 @@
+img {
+  width: 500px;
+  height: 450px;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  border: solid rgb(153, 150, 150);
+}
+
+.winner {
+  color: green;
+}
+.loser {
+  color: red;
+}
